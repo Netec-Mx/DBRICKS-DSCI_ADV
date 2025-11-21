@@ -10,29 +10,29 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Databrick
 
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
-### [Práctica: Explorando Azure Databricks](./Laboratorio_1.md) 
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
+### [Práctica: Explorando Azure Databricks](Explorando Azure Databricks/Lab1.md) 
+   - **Descripción**: crear un workspace para databricks, crear un clúster y analizar datos con SQL y Python.
+   - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica: Análisis de datos con Azure Databricks](./Laboratorio_2.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
+### [Práctica: Análisis de datos con Azure Databricks](Análisis de datos/Lab2.md)
+   - **Descripción**: conectar con múltiples archivos como fuentes, crear esquemas, usar funciones de agregación y explorar gráficos.
+   - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica: Transformar datos con Apache Spark en Azure Databricks](./Laboratorio_3.md)
-   - **Descripción**: xxx.
-   - ⏱️**Duración estimada**: xx min.
+### [Práctica: Transformar datos con Apache Spark en Azure Databricks](Transformar datos con Apache Spark/Lab3.md)
+   - **Descripción**: aplicar transformaciones para controlar la ingesta de datos, filtrar y agrupar información y ejecutar código SQL.
+   - ⏱️**Duración estimada**: 60 min.
 
-### [Práctica: Manejo de datos con Delta Lake](./Laboratorio_1.md) 
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
+### [Práctica: Manejo de datos con Delta Lake](Manejo de datos con Delta Lake/Lab4.md) 
+   - **Descripción**: consumir datosa un delta lake, explorar registros y "navegar en el tiempo", crear tablas en catálogos y optimizar el entorno.
+   - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica: Creación de pipelines de datos con Delta Live Tables](./Laboratorio_2.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
+### [Práctica: Creación de pipelines de datos con Delta Live Tables](Manejo de datos con Delta Lake/Lab4.md)
+   - **Descripción**: crear un Lakeflow Declarative Pipeline con SQL y crear visualizaciones con sus resultados.
+   - ⏱️ **Duración estimada**: 60 min.
 
-### [Práctica: Cargas de trabajo con flujos de trabajo de Azure Databricks](./Laboratorio_3.md)
-   - **Descripción**: xxx.
-   - ⏱️**Duración estimada**: xx min.
+### [Práctica: Cargas de trabajo con flujos de trabajo de Azure Databricks](Manejo de datos con Delta Lake/Lab4.md)
+   - **Descripción**: crear notebook para consumir datos, crear un job y construir un workflow.
+   - ⏱️**Duración estimada**: 60 min.
 
 ---
 

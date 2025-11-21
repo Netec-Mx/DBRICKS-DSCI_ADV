@@ -43,4 +43,3 @@ Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](
 ---
 
 ¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
-<img width="921" height="861" alt="image" src="https://github.com/user-attachments/assets/1f6a46a2-70ce-47ce-aff1-3c390b0d1db2" />
